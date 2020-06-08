@@ -1,0 +1,18 @@
+Neuron szerepe: kapott adatokból súlyokkal egy outputot adjon
+Réteg szerepe: input tömböt inicializálni, output tömböt inicializálni
+
+
+egy tanítás menete:
+1. layer: 
+kap: input
+ad: módosított output1
+2. layer: 
+kap: módosított output1
+ad: módosított output2
+3. layer: 
+kap: módosított output2
+ad: módosított output3
+4. layer:
+kap: módosított output3
+ad: output
+
